@@ -1,6 +1,6 @@
 # Conway's Game of Life in Java
 
-Written in my senior year of highschool for my AP Computer Science class
+Written in my senior year of highschool for my AP Computer Science class <br/>
 We were the first ever instance of the class and the school board wanted a demonstration of some of what we had learned
 
 Utilizes the Princeton StdDraw Library for its GUI
